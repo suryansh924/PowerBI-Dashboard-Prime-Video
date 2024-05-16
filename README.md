@@ -1,5 +1,7 @@
 ## Power BI Analysis of Amazon Prime Videos
 
+![alt text](https://github.com/suryansh924/data/blob/main/BI_Dashboard_Prime_Video.png?raw=true)
+
 This analysis leverages a Power BI dashboard to delve into the content landscape of Amazon Prime Video.  Our goal is to uncover insights into content performance and user preferences on the platform. The interactive dashboard empowers users to explore and visualize various metrics related to the available movies and TV shows.
 
 ## Dashboard Breakdown: Unveiling the Content Landscape
